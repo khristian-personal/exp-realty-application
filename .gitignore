@@ -1,0 +1,18 @@
+# Strategy and planning documents (internal use only)
+00_APPLICATION_STRATEGY.md
+02_KBA_TEMPLATES.md
+03_PROJECT_PLANS.md
+PROJECT_1_TICKET_SYSTEM.md
+PROJECT_2_HARDWARE_GUIDE.md
+
+# OS and IDE files
+.DS_Store
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.swp
+
+# System files
+Thumbs.db
+*.bak
