@@ -92,7 +92,8 @@ Scripts demonstrate skills directly transferable to help desk:
 **Khristian Walker**  
 📧 walkkh01@gmail.com  
 📱 908.666.9980  
-🔗 [LinkedIn](https://linkedin.com/in/khristian-walker)
+🔗 [linkedin.com/in/khristian-walker](https://linkedin.com/in/khristian-walker)  
+🐙 [github.com/khristian-personal](https://github.com/khristian-personal)
 
 ---
 
