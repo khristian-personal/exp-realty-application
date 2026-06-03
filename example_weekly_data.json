@@ -1,0 +1,60 @@
+{
+  "week": "Jan 15 - Jan 21, 2025",
+  "location": "[LOCATION]",
+  "target": 91.5,
+  "overall": {
+    "score": 94.2,
+    "metric_1": 96.1,
+    "metric_2": 93.8,
+    "metric_3": 92.8,
+    "surveys": 247
+  },
+  "leaders": {
+    "Sarah J": {
+      "role": "MOD",
+      "score": 95.1,
+      "metric_1": 97.2,
+      "metric_2": 94.8,
+      "metric_3": 93.2,
+      "surveys": 48
+    },
+    "Michael T": {
+      "role": "MOD",
+      "score": 93.6,
+      "metric_1": 95.1,
+      "metric_2": 92.9,
+      "metric_3": 92.8,
+      "surveys": 52
+    },
+    "Jennifer K": {
+      "role": "SUP",
+      "score": 92.4,
+      "metric_1": 93.2,
+      "metric_2": 91.8,
+      "metric_3": 91.9,
+      "surveys": 44
+    },
+    "David R": {
+      "role": "MOD",
+      "score": 94.8,
+      "metric_1": 96.3,
+      "metric_2": 94.2,
+      "metric_3": 93.8,
+      "surveys": 50
+    },
+    "Amanda L": {
+      "role": "SUP",
+      "score": 94.1,
+      "metric_1": 95.4,
+      "metric_2": 93.8,
+      "metric_3": 93.0,
+      "surveys": 53
+    }
+  },
+  "metadata": {
+    "data_source": "Guest Satisfaction Survey Export",
+    "processing_date": "2025-01-22T14:30:00Z",
+    "attribution_method": "Date + Time Segment matching against leadership schedule",
+    "validation_status": "PASSED"
+  }
+}
